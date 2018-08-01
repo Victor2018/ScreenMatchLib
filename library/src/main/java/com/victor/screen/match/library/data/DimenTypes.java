@@ -3,6 +3,7 @@ package com.victor.screen.match.library.data;
 public enum DimenTypes {
 
     //适配Android 3.2以上 values-wxxxdp
+    PX_W1280X720_DEFAULT(1280, 720, 240, 240),      //values
     PX_W800X480_240(800, 480, 240, 320),    //values-w320dp
     PX_W1280X720(1280, 720, 320, 360),      //values-w360dp
     PX_W1280X768_320(1280, 768, 320, 384),  //values-w384dp

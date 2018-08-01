@@ -13,8 +13,9 @@ public class MakeUtils {
     private static final String XML_HEADER = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n";
     private static final String XML_RESOURCE_START = "<resources>\r\n";
     private static final String XML_RESOURCE_END = "</resources>\r\n";
-    private static final String XML_DIMEN_TEMPLETE = "<dimen name=\"px_%1$d\">%2$.2fdp</dimen>\r\n";
+    private static final String XML_DIMEN_TEMPLETE = "<dimen name=\"dp_%1$d\">%2$.2fdp</dimen>\r\n";
     private static final String XML_STRING_TEMPLETE = "<string name=\"app_name\">%s</string>\r\n";
+
 
     /**
      * 生成的适配目标的
@@ -80,6 +81,7 @@ public class MakeUtils {
      * @return
      */
     private static String makeAllDimens(DimenTypes type, float quality) {
+
         //一个像素点对应的dp值,基准为160dpi
         final float px2dp = (float) 160 / type.getDensityDpi();
         float dpValue;
@@ -95,7 +97,7 @@ public class MakeUtils {
             sb.append(temp);
             temp = String.format(XML_BASE_DPI, type.getDensityDpi());
             sb.append(temp);
-            for (int i = 0; i <= 750; i++) {
+            for (int i = 0; i <= 2560; i++) {
                 dpValue = px2dip((float) i, px2dp, quality);
                 temp = String.format(XML_DIMEN_TEMPLETE, i, dpValue);
                 sb.append(temp);
@@ -138,10 +140,12 @@ public class MakeUtils {
     public static void makeAll(int designWidth, DimenTypes type, String buildDir) {
         try {
             //生成规则
-            final String folderName;
+            String folderName = "values";
             if (type.getSwWidthDp() > 0) {
                 //适配Android 3.2+
-                folderName = "values-sw" + type.getSwWidthDp() + "dp";
+                if (type.getSwWidthDp() != 240) {
+                    folderName = "values-sw" + type.getSwWidthDp() + "dp";
+                }
                 System.out.println("folderName = " + folderName);
             } else if (type.isExclude()) {
                 //表示生成标准的values-mdpi values-hdpi 后面不跟分辨率
