@@ -7,11 +7,20 @@
     tools:context="com.victor.screen.MainActivity">
 
     <TextView
-        android:layout_width="@dimen/dp_200"
+        android:layout_width="@dimen/dp_375"
         android:layout_height="@dimen/dp_100"
-        android:text="Hello World!"
+        android:text="宽750的一半375"
         android:background="@color/colorAccent"
+        android:gravity="center"
         android:textSize="@dimen/dp_28"
-        android:textColor="@android:color/black"/>
+        android:textColor="@android:color/white"
+        tools:ignore="MissingConstraints" />
+
+    <View
+        android:layout_width="@dimen/dp_1"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
 </android.support.constraint.ConstraintLayout>
