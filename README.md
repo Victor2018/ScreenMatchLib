@@ -2,6 +2,10 @@
 
 # 一个屏幕适配框架（基本能够适配所有手机，平板，机顶盒，智能电视）
 
+# 适配效果图
+
+- ![image](https://github.com/Victor2018/ScreenMatchLib/raw/master/SrceenShot/img_match.png)
+
 Usage
 
 - Step 1. Add the JitPack repository to your build file
@@ -22,7 +26,7 @@ dependencies {
 # 关注开发者：
 - 邮箱： victor423099@gmail.com
 - 新浪微博
-- ![image](https://github.com/Victor2018/AppUpdateLib/raw/master/SrceenShot/sina_weibo.jpg)
+- ![image](https://github.com/Victor2018/ScreenMatchLib/raw/master/SrceenShot/sina_weibo.jpg)
 
 ## License
 
