@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ScreenMatchLib.iml" filepath="$PROJECT_DIR$/ScreenMatchLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScreenMatchLib-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScreenMatchLib-app.iml" group="ScreenMatchLib/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/com.github.Victor2018-library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/com.github.Victor2018-library.iml" group="ScreenMatchLib/library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/github-ScreenMatchLib.iml" filepath="$PROJECT_DIR$/.idea/modules/github-ScreenMatchLib.iml" group="ScreenMatchLib" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>

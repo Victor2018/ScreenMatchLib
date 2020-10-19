@@ -7,11 +7,26 @@
     tools:context="com.victor.screen.MainActivity">
 
     <TextView
+        android:id="@+id/tv_match_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dp_10"
+        android:background="@color/colorPrimary"
+        android:lineSpacingMultiplier="1.5"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/dp_28"
+        android:textColor="@android:color/white"
+        tools:ignore="MissingConstraints" />
+    <TextView
+        android:id="@+id/tv_match"
         android:layout_width="@dimen/dp_375"
-        android:layout_height="@dimen/dp_100"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_20"
+        android:padding="@dimen/dp_10"
         android:text="宽750的一半375"
         android:background="@color/colorAccent"
-        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@+id/tv_match_data"
+        android:gravity="center_vertical"
         android:textSize="@dimen/dp_28"
         android:textColor="@android:color/white"
         tools:ignore="MissingConstraints" />
@@ -22,5 +37,6 @@
         android:background="@color/colorPrimary"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
+
 
 </android.support.constraint.ConstraintLayout>
