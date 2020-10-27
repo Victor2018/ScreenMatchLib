@@ -26,7 +26,7 @@ public class MakeUtils {
 
 
     public static float px2dip(float pxValue, int sw,int designWidth) {
-        float dpValue =   (pxValue/(float)designWidth) * sw;
+        float dpValue = (pxValue/(float)designWidth) * sw;
         BigDecimal bigDecimal = new BigDecimal(dpValue);
         float finDp = bigDecimal.setScale(2, BigDecimal.ROUND_HALF_UP).floatValue();
         return finDp;
@@ -71,12 +71,9 @@ public class MakeUtils {
      */
     public static void makeAll(int designWidth, int swWidthDp, String buildDir) {
         try {
-            final String folderName;
-            if (swWidthDp > 0) {
-                folderName = "values-sw" + swWidthDp + "dp";
-            }else {
-                return;
-            }
+            if (swWidthDp <= 0) return;
+
+            String folderName = "values-sw" + swWidthDp + "dp";
 
             File file = new File(buildDir + File.separator + folderName);
             if (file.exists()) {
@@ -88,8 +85,6 @@ public class MakeUtils {
             fos.write(makeAllDimens(swWidthDp,designWidth).getBytes());
             fos.flush();
             fos.close();
-
-
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {

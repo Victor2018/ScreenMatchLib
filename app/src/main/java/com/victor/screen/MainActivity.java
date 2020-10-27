@@ -24,15 +24,22 @@ public class MainActivity extends AppCompatActivity {
 
         DisplayMetrics dm = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(dm);
-        int width = Math.min(dm.widthPixels,dm.heightPixels);
+        int smallestWidth = Math.min(dm.widthPixels,dm.heightPixels);
 
         StringBuffer sb = new StringBuffer();
-        sb.append("dpi : "+ dm.densityDpi + "\n");
-        sb.append("smallest width pixels : "+ width + "\n");
-        sb.append("计算出来的smallestWidth : "+ width/(dm.densityDpi/160.0) +"dp" + "\n");
-        sb.append("实际使用的smallestWidth :  "+ ResUtils.getStringRes(R.string.base_dpi) + "\n");
         sb.append("当前手机： "+ DeviceUtils.getDeviceBrand()+"--->"+DeviceUtils.getPhoneModel()+ " \n");
-        sb.append("当前系统： "+DeviceUtils.getSystemVersion()+ " "+ "\n");
+        sb.append("当前系统： "+ DeviceUtils.getSystemVersion()+ " "+ "\n");
+        sb.append("widthPixels : "+ dm.widthPixels + "\n");
+        sb.append("heightPixels : "+ dm.heightPixels + "\n");
+        sb.append("smallest width pixels : "+ smallestWidth + "\n");
+        sb.append("densityDpi : "+ dm.densityDpi + "\n");
+
+        sb.append("计算smallestWidth公式 : smallestWidth/(densityDpi/160.0)"+  "\n");
+        sb.append("计算出来的smallestWidth : " + smallestWidth + "/(" + dm.densityDpi + "/160.0) = "
+                + smallestWidth/(dm.densityDpi/160.0) +"dp" + "\n");
+
+        sb.append("实际使用的smallestWidth :  "+ ResUtils.getStringRes(R.string.base_dpi) + "\n");
+
 
         mTvMatchData.setText(sb.toString());
     }

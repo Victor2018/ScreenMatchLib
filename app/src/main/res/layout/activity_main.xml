@@ -6,6 +6,13 @@
     android:layout_height="match_parent"
     tools:context="com.victor.screen.MainActivity">
 
+    <View
+        android:layout_width="@dimen/dp_1"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
     <TextView
         android:id="@+id/tv_match_data"
         android:layout_width="match_parent"
@@ -14,9 +21,10 @@
         android:background="@color/colorPrimary"
         android:lineSpacingMultiplier="1.5"
         android:gravity="center_vertical"
-        android:textSize="@dimen/dp_28"
+        android:textSize="@dimen/dp_22"
         android:textColor="@android:color/white"
         tools:ignore="MissingConstraints" />
+
     <TextView
         android:id="@+id/tv_match"
         android:layout_width="@dimen/dp_375"
@@ -31,12 +39,6 @@
         android:textColor="@android:color/white"
         tools:ignore="MissingConstraints" />
 
-    <View
-        android:layout_width="@dimen/dp_1"
-        android:layout_height="match_parent"
-        android:background="@color/colorPrimary"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
 
 
 </android.support.constraint.ConstraintLayout>
