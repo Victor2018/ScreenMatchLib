@@ -44,11 +44,11 @@ dpi=√(width^2 x height^2)/屏幕尺寸
 
 # TV
 
-Name                            Play Store   Size     Resolution      Density                     SmallestWidthDp
+Name                            Play Store   Size     Resolution      Density                     WidthDp
 
-AndroidTV(720p)                              55"       1280*720        tvdpi                720/(213/160.0) = 540.85dp
+AndroidTV(720p)                              55"       1280*720        tvdpi                1280/(213/160.0) = 961.5dp
 
-AndroidTV(1080p)                            55"       1920*1080     xhdpi                1080/(320/160.0)=540.0dp
+AndroidTV(1080p)                            55"       1920*1080     xhdpi                1920/(320/160.0)=960.0dp
 
 
 
