@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         sb.append("heightPixels : "+ dm.heightPixels + "\n");
         sb.append("smallest width pixels : "+ smallestWidth + "\n");
         sb.append("densityDpi : "+ dm.densityDpi + "\n");
+        sb.append("scaledDensity : "+ dm.scaledDensity + "\n");
 
         sb.append("计算smallestWidth公式 : smallestWidth/(densityDpi/160.0)"+  "\n");
         sb.append("计算出来的smallestWidth : " + smallestWidth + "/(" + dm.densityDpi + "/160.0) = "
