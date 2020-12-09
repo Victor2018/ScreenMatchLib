@@ -10,12 +10,12 @@ public class DimenGenerator {
     /**
      * 设计稿尺寸宽度
      */
-    private static final int DESIGN_WIDTH = 563;
+    private static final int DESIGN_WIDTH = 563;//750
 
     /**
      * 设计稿的高度
      */
-    private static final int DESIGN_HEIGHT = 1218;
+    private static final int DESIGN_HEIGHT = 1218;//1334
 
     //适配Android 3.2以上   大部分手机的sw值集中在300-450之间,平板的sw值集中在460-720之间
     private static final int DP_PHONE_SW_START = 300;

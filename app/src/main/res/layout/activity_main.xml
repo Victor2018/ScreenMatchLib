@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/dp_20"
         android:padding="@dimen/dp_10"
-        android:text="宽750的一半375"
+        android:text="宽750(563)的一半375(281.5)"
         android:background="@color/colorAccent"
         app:layout_constraintTop_toBottomOf="@+id/tv_match_data"
         android:gravity="center_vertical"
