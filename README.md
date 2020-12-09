@@ -1,8 +1,8 @@
 # ScreenMatchLib
 
-# Ò»¸öÆÁÄ»ÊÊÅä¿ò¼Ü£¨»ù±¾ÄÜ¹»ÊÊÅäËùÓĞÊÖ»ú£¬Æ½°å£¬»ú¶¥ºĞ£¬ÖÇÄÜµçÊÓ£©
+# ä¸€ä¸ªå±å¹•é€‚é…æ¡†æ¶ï¼ˆåŸºæœ¬èƒ½å¤Ÿé€‚é…æ‰€æœ‰æ‰‹æœºï¼Œå¹³æ¿ï¼Œæœºé¡¶ç›’ï¼Œæ™ºèƒ½ç”µè§†ï¼‰
 
-# ÊÊÅäĞ§¹ûÍ¼
+# é€‚é…æ•ˆæœå›¾
 
 - ![image](https://github.com/Victor2018/ScreenMatchLib/raw/master/SrceenShot/img_match.png)
 
@@ -23,9 +23,9 @@ dependencies {
 }
 
 
-# ¹Ø×¢¿ª·¢Õß£º
-- ÓÊÏä£º victor423099@gmail.com
-- ĞÂÀËÎ¢²©
+# å…³æ³¨å¼€å‘è€…ï¼š
+- é‚®ç®±ï¼š victor423099@gmail.com
+- æ–°æµªå¾®åš
 - ![image](https://github.com/Victor2018/ScreenMatchLib/raw/master/SrceenShot/sina_weibo.jpg)
 
 ## License

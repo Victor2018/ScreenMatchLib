@@ -27,7 +27,7 @@
 
     <TextView
         android:id="@+id/tv_match"
-        android:layout_width="@dimen/dp_375"
+        android:layout_width="@dimen/dp_281"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/dp_20"
         android:padding="@dimen/dp_10"
