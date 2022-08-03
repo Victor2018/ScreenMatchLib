@@ -16,7 +16,7 @@ public class MakeUtils {
 
 
     private static final String XML_BASE_DPI = "<string name=\"base_dpi\">%ddp</string>\r\n";
-    private static final int MAX_SIZE = 1080;
+    private static final int MAX_SIZE = 750;
 
 
     /**
