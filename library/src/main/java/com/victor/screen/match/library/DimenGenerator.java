@@ -7,7 +7,7 @@ import com.victor.screen.match.library.util.TvMakeUtils;
 
 
 public class DimenGenerator {
-    private static final Boolean isPhone = true;
+    private static final Boolean isPhone = false;
     /**
      * 设计稿尺寸宽度
      */
