@@ -31,6 +31,7 @@ public class DimenGenerator {
             240,//xhdpi 320dpi
             360,//xxhdpi 480dpi
             480,//xxxhdpi 640dpi
+            750,//lpx
     };
 
 

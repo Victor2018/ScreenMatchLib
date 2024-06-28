@@ -1,0 +1,3008 @@
+{
+	"string": [
+		{
+			"name": "750lpx",
+			"value": "750lpx"
+		},
+		{
+			"name": "lpx_1",
+			"value": "1.00lpx"
+		},
+		{
+			"name": "lpx_2",
+			"value": "2.00lpx"
+		},
+		{
+			"name": "lpx_3",
+			"value": "3.00lpx"
+		},
+		{
+			"name": "lpx_4",
+			"value": "4.00lpx"
+		},
+		{
+			"name": "lpx_5",
+			"value": "5.00lpx"
+		},
+		{
+			"name": "lpx_6",
+			"value": "6.00lpx"
+		},
+		{
+			"name": "lpx_7",
+			"value": "7.00lpx"
+		},
+		{
+			"name": "lpx_8",
+			"value": "8.00lpx"
+		},
+		{
+			"name": "lpx_9",
+			"value": "9.00lpx"
+		},
+		{
+			"name": "lpx_10",
+			"value": "10.00lpx"
+		},
+		{
+			"name": "lpx_11",
+			"value": "11.00lpx"
+		},
+		{
+			"name": "lpx_12",
+			"value": "12.00lpx"
+		},
+		{
+			"name": "lpx_13",
+			"value": "13.00lpx"
+		},
+		{
+			"name": "lpx_14",
+			"value": "14.00lpx"
+		},
+		{
+			"name": "lpx_15",
+			"value": "15.00lpx"
+		},
+		{
+			"name": "lpx_16",
+			"value": "16.00lpx"
+		},
+		{
+			"name": "lpx_17",
+			"value": "17.00lpx"
+		},
+		{
+			"name": "lpx_18",
+			"value": "18.00lpx"
+		},
+		{
+			"name": "lpx_19",
+			"value": "19.00lpx"
+		},
+		{
+			"name": "lpx_20",
+			"value": "20.00lpx"
+		},
+		{
+			"name": "lpx_21",
+			"value": "21.00lpx"
+		},
+		{
+			"name": "lpx_22",
+			"value": "22.00lpx"
+		},
+		{
+			"name": "lpx_23",
+			"value": "23.00lpx"
+		},
+		{
+			"name": "lpx_24",
+			"value": "24.00lpx"
+		},
+		{
+			"name": "lpx_25",
+			"value": "25.00lpx"
+		},
+		{
+			"name": "lpx_26",
+			"value": "26.00lpx"
+		},
+		{
+			"name": "lpx_27",
+			"value": "27.00lpx"
+		},
+		{
+			"name": "lpx_28",
+			"value": "28.00lpx"
+		},
+		{
+			"name": "lpx_29",
+			"value": "29.00lpx"
+		},
+		{
+			"name": "lpx_30",
+			"value": "30.00lpx"
+		},
+		{
+			"name": "lpx_31",
+			"value": "31.00lpx"
+		},
+		{
+			"name": "lpx_32",
+			"value": "32.00lpx"
+		},
+		{
+			"name": "lpx_33",
+			"value": "33.00lpx"
+		},
+		{
+			"name": "lpx_34",
+			"value": "34.00lpx"
+		},
+		{
+			"name": "lpx_35",
+			"value": "35.00lpx"
+		},
+		{
+			"name": "lpx_36",
+			"value": "36.00lpx"
+		},
+		{
+			"name": "lpx_37",
+			"value": "37.00lpx"
+		},
+		{
+			"name": "lpx_38",
+			"value": "38.00lpx"
+		},
+		{
+			"name": "lpx_39",
+			"value": "39.00lpx"
+		},
+		{
+			"name": "lpx_40",
+			"value": "40.00lpx"
+		},
+		{
+			"name": "lpx_41",
+			"value": "41.00lpx"
+		},
+		{
+			"name": "lpx_42",
+			"value": "42.00lpx"
+		},
+		{
+			"name": "lpx_43",
+			"value": "43.00lpx"
+		},
+		{
+			"name": "lpx_44",
+			"value": "44.00lpx"
+		},
+		{
+			"name": "lpx_45",
+			"value": "45.00lpx"
+		},
+		{
+			"name": "lpx_46",
+			"value": "46.00lpx"
+		},
+		{
+			"name": "lpx_47",
+			"value": "47.00lpx"
+		},
+		{
+			"name": "lpx_48",
+			"value": "48.00lpx"
+		},
+		{
+			"name": "lpx_49",
+			"value": "49.00lpx"
+		},
+		{
+			"name": "lpx_50",
+			"value": "50.00lpx"
+		},
+		{
+			"name": "lpx_51",
+			"value": "51.00lpx"
+		},
+		{
+			"name": "lpx_52",
+			"value": "52.00lpx"
+		},
+		{
+			"name": "lpx_53",
+			"value": "53.00lpx"
+		},
+		{
+			"name": "lpx_54",
+			"value": "54.00lpx"
+		},
+		{
+			"name": "lpx_55",
+			"value": "55.00lpx"
+		},
+		{
+			"name": "lpx_56",
+			"value": "56.00lpx"
+		},
+		{
+			"name": "lpx_57",
+			"value": "57.00lpx"
+		},
+		{
+			"name": "lpx_58",
+			"value": "58.00lpx"
+		},
+		{
+			"name": "lpx_59",
+			"value": "59.00lpx"
+		},
+		{
+			"name": "lpx_60",
+			"value": "60.00lpx"
+		},
+		{
+			"name": "lpx_61",
+			"value": "61.00lpx"
+		},
+		{
+			"name": "lpx_62",
+			"value": "62.00lpx"
+		},
+		{
+			"name": "lpx_63",
+			"value": "63.00lpx"
+		},
+		{
+			"name": "lpx_64",
+			"value": "64.00lpx"
+		},
+		{
+			"name": "lpx_65",
+			"value": "65.00lpx"
+		},
+		{
+			"name": "lpx_66",
+			"value": "66.00lpx"
+		},
+		{
+			"name": "lpx_67",
+			"value": "67.00lpx"
+		},
+		{
+			"name": "lpx_68",
+			"value": "68.00lpx"
+		},
+		{
+			"name": "lpx_69",
+			"value": "69.00lpx"
+		},
+		{
+			"name": "lpx_70",
+			"value": "70.00lpx"
+		},
+		{
+			"name": "lpx_71",
+			"value": "71.00lpx"
+		},
+		{
+			"name": "lpx_72",
+			"value": "72.00lpx"
+		},
+		{
+			"name": "lpx_73",
+			"value": "73.00lpx"
+		},
+		{
+			"name": "lpx_74",
+			"value": "74.00lpx"
+		},
+		{
+			"name": "lpx_75",
+			"value": "75.00lpx"
+		},
+		{
+			"name": "lpx_76",
+			"value": "76.00lpx"
+		},
+		{
+			"name": "lpx_77",
+			"value": "77.00lpx"
+		},
+		{
+			"name": "lpx_78",
+			"value": "78.00lpx"
+		},
+		{
+			"name": "lpx_79",
+			"value": "79.00lpx"
+		},
+		{
+			"name": "lpx_80",
+			"value": "80.00lpx"
+		},
+		{
+			"name": "lpx_81",
+			"value": "81.00lpx"
+		},
+		{
+			"name": "lpx_82",
+			"value": "82.00lpx"
+		},
+		{
+			"name": "lpx_83",
+			"value": "83.00lpx"
+		},
+		{
+			"name": "lpx_84",
+			"value": "84.00lpx"
+		},
+		{
+			"name": "lpx_85",
+			"value": "85.00lpx"
+		},
+		{
+			"name": "lpx_86",
+			"value": "86.00lpx"
+		},
+		{
+			"name": "lpx_87",
+			"value": "87.00lpx"
+		},
+		{
+			"name": "lpx_88",
+			"value": "88.00lpx"
+		},
+		{
+			"name": "lpx_89",
+			"value": "89.00lpx"
+		},
+		{
+			"name": "lpx_90",
+			"value": "90.00lpx"
+		},
+		{
+			"name": "lpx_91",
+			"value": "91.00lpx"
+		},
+		{
+			"name": "lpx_92",
+			"value": "92.00lpx"
+		},
+		{
+			"name": "lpx_93",
+			"value": "93.00lpx"
+		},
+		{
+			"name": "lpx_94",
+			"value": "94.00lpx"
+		},
+		{
+			"name": "lpx_95",
+			"value": "95.00lpx"
+		},
+		{
+			"name": "lpx_96",
+			"value": "96.00lpx"
+		},
+		{
+			"name": "lpx_97",
+			"value": "97.00lpx"
+		},
+		{
+			"name": "lpx_98",
+			"value": "98.00lpx"
+		},
+		{
+			"name": "lpx_99",
+			"value": "99.00lpx"
+		},
+		{
+			"name": "lpx_100",
+			"value": "100.00lpx"
+		},
+		{
+			"name": "lpx_101",
+			"value": "101.00lpx"
+		},
+		{
+			"name": "lpx_102",
+			"value": "102.00lpx"
+		},
+		{
+			"name": "lpx_103",
+			"value": "103.00lpx"
+		},
+		{
+			"name": "lpx_104",
+			"value": "104.00lpx"
+		},
+		{
+			"name": "lpx_105",
+			"value": "105.00lpx"
+		},
+		{
+			"name": "lpx_106",
+			"value": "106.00lpx"
+		},
+		{
+			"name": "lpx_107",
+			"value": "107.00lpx"
+		},
+		{
+			"name": "lpx_108",
+			"value": "108.00lpx"
+		},
+		{
+			"name": "lpx_109",
+			"value": "109.00lpx"
+		},
+		{
+			"name": "lpx_110",
+			"value": "110.00lpx"
+		},
+		{
+			"name": "lpx_111",
+			"value": "111.00lpx"
+		},
+		{
+			"name": "lpx_112",
+			"value": "112.00lpx"
+		},
+		{
+			"name": "lpx_113",
+			"value": "113.00lpx"
+		},
+		{
+			"name": "lpx_114",
+			"value": "114.00lpx"
+		},
+		{
+			"name": "lpx_115",
+			"value": "115.00lpx"
+		},
+		{
+			"name": "lpx_116",
+			"value": "116.00lpx"
+		},
+		{
+			"name": "lpx_117",
+			"value": "117.00lpx"
+		},
+		{
+			"name": "lpx_118",
+			"value": "118.00lpx"
+		},
+		{
+			"name": "lpx_119",
+			"value": "119.00lpx"
+		},
+		{
+			"name": "lpx_120",
+			"value": "120.00lpx"
+		},
+		{
+			"name": "lpx_121",
+			"value": "121.00lpx"
+		},
+		{
+			"name": "lpx_122",
+			"value": "122.00lpx"
+		},
+		{
+			"name": "lpx_123",
+			"value": "123.00lpx"
+		},
+		{
+			"name": "lpx_124",
+			"value": "124.00lpx"
+		},
+		{
+			"name": "lpx_125",
+			"value": "125.00lpx"
+		},
+		{
+			"name": "lpx_126",
+			"value": "126.00lpx"
+		},
+		{
+			"name": "lpx_127",
+			"value": "127.00lpx"
+		},
+		{
+			"name": "lpx_128",
+			"value": "128.00lpx"
+		},
+		{
+			"name": "lpx_129",
+			"value": "129.00lpx"
+		},
+		{
+			"name": "lpx_130",
+			"value": "130.00lpx"
+		},
+		{
+			"name": "lpx_131",
+			"value": "131.00lpx"
+		},
+		{
+			"name": "lpx_132",
+			"value": "132.00lpx"
+		},
+		{
+			"name": "lpx_133",
+			"value": "133.00lpx"
+		},
+		{
+			"name": "lpx_134",
+			"value": "134.00lpx"
+		},
+		{
+			"name": "lpx_135",
+			"value": "135.00lpx"
+		},
+		{
+			"name": "lpx_136",
+			"value": "136.00lpx"
+		},
+		{
+			"name": "lpx_137",
+			"value": "137.00lpx"
+		},
+		{
+			"name": "lpx_138",
+			"value": "138.00lpx"
+		},
+		{
+			"name": "lpx_139",
+			"value": "139.00lpx"
+		},
+		{
+			"name": "lpx_140",
+			"value": "140.00lpx"
+		},
+		{
+			"name": "lpx_141",
+			"value": "141.00lpx"
+		},
+		{
+			"name": "lpx_142",
+			"value": "142.00lpx"
+		},
+		{
+			"name": "lpx_143",
+			"value": "143.00lpx"
+		},
+		{
+			"name": "lpx_144",
+			"value": "144.00lpx"
+		},
+		{
+			"name": "lpx_145",
+			"value": "145.00lpx"
+		},
+		{
+			"name": "lpx_146",
+			"value": "146.00lpx"
+		},
+		{
+			"name": "lpx_147",
+			"value": "147.00lpx"
+		},
+		{
+			"name": "lpx_148",
+			"value": "148.00lpx"
+		},
+		{
+			"name": "lpx_149",
+			"value": "149.00lpx"
+		},
+		{
+			"name": "lpx_150",
+			"value": "150.00lpx"
+		},
+		{
+			"name": "lpx_151",
+			"value": "151.00lpx"
+		},
+		{
+			"name": "lpx_152",
+			"value": "152.00lpx"
+		},
+		{
+			"name": "lpx_153",
+			"value": "153.00lpx"
+		},
+		{
+			"name": "lpx_154",
+			"value": "154.00lpx"
+		},
+		{
+			"name": "lpx_155",
+			"value": "155.00lpx"
+		},
+		{
+			"name": "lpx_156",
+			"value": "156.00lpx"
+		},
+		{
+			"name": "lpx_157",
+			"value": "157.00lpx"
+		},
+		{
+			"name": "lpx_158",
+			"value": "158.00lpx"
+		},
+		{
+			"name": "lpx_159",
+			"value": "159.00lpx"
+		},
+		{
+			"name": "lpx_160",
+			"value": "160.00lpx"
+		},
+		{
+			"name": "lpx_161",
+			"value": "161.00lpx"
+		},
+		{
+			"name": "lpx_162",
+			"value": "162.00lpx"
+		},
+		{
+			"name": "lpx_163",
+			"value": "163.00lpx"
+		},
+		{
+			"name": "lpx_164",
+			"value": "164.00lpx"
+		},
+		{
+			"name": "lpx_165",
+			"value": "165.00lpx"
+		},
+		{
+			"name": "lpx_166",
+			"value": "166.00lpx"
+		},
+		{
+			"name": "lpx_167",
+			"value": "167.00lpx"
+		},
+		{
+			"name": "lpx_168",
+			"value": "168.00lpx"
+		},
+		{
+			"name": "lpx_169",
+			"value": "169.00lpx"
+		},
+		{
+			"name": "lpx_170",
+			"value": "170.00lpx"
+		},
+		{
+			"name": "lpx_171",
+			"value": "171.00lpx"
+		},
+		{
+			"name": "lpx_172",
+			"value": "172.00lpx"
+		},
+		{
+			"name": "lpx_173",
+			"value": "173.00lpx"
+		},
+		{
+			"name": "lpx_174",
+			"value": "174.00lpx"
+		},
+		{
+			"name": "lpx_175",
+			"value": "175.00lpx"
+		},
+		{
+			"name": "lpx_176",
+			"value": "176.00lpx"
+		},
+		{
+			"name": "lpx_177",
+			"value": "177.00lpx"
+		},
+		{
+			"name": "lpx_178",
+			"value": "178.00lpx"
+		},
+		{
+			"name": "lpx_179",
+			"value": "179.00lpx"
+		},
+		{
+			"name": "lpx_180",
+			"value": "180.00lpx"
+		},
+		{
+			"name": "lpx_181",
+			"value": "181.00lpx"
+		},
+		{
+			"name": "lpx_182",
+			"value": "182.00lpx"
+		},
+		{
+			"name": "lpx_183",
+			"value": "183.00lpx"
+		},
+		{
+			"name": "lpx_184",
+			"value": "184.00lpx"
+		},
+		{
+			"name": "lpx_185",
+			"value": "185.00lpx"
+		},
+		{
+			"name": "lpx_186",
+			"value": "186.00lpx"
+		},
+		{
+			"name": "lpx_187",
+			"value": "187.00lpx"
+		},
+		{
+			"name": "lpx_188",
+			"value": "188.00lpx"
+		},
+		{
+			"name": "lpx_189",
+			"value": "189.00lpx"
+		},
+		{
+			"name": "lpx_190",
+			"value": "190.00lpx"
+		},
+		{
+			"name": "lpx_191",
+			"value": "191.00lpx"
+		},
+		{
+			"name": "lpx_192",
+			"value": "192.00lpx"
+		},
+		{
+			"name": "lpx_193",
+			"value": "193.00lpx"
+		},
+		{
+			"name": "lpx_194",
+			"value": "194.00lpx"
+		},
+		{
+			"name": "lpx_195",
+			"value": "195.00lpx"
+		},
+		{
+			"name": "lpx_196",
+			"value": "196.00lpx"
+		},
+		{
+			"name": "lpx_197",
+			"value": "197.00lpx"
+		},
+		{
+			"name": "lpx_198",
+			"value": "198.00lpx"
+		},
+		{
+			"name": "lpx_199",
+			"value": "199.00lpx"
+		},
+		{
+			"name": "lpx_200",
+			"value": "200.00lpx"
+		},
+		{
+			"name": "lpx_201",
+			"value": "201.00lpx"
+		},
+		{
+			"name": "lpx_202",
+			"value": "202.00lpx"
+		},
+		{
+			"name": "lpx_203",
+			"value": "203.00lpx"
+		},
+		{
+			"name": "lpx_204",
+			"value": "204.00lpx"
+		},
+		{
+			"name": "lpx_205",
+			"value": "205.00lpx"
+		},
+		{
+			"name": "lpx_206",
+			"value": "206.00lpx"
+		},
+		{
+			"name": "lpx_207",
+			"value": "207.00lpx"
+		},
+		{
+			"name": "lpx_208",
+			"value": "208.00lpx"
+		},
+		{
+			"name": "lpx_209",
+			"value": "209.00lpx"
+		},
+		{
+			"name": "lpx_210",
+			"value": "210.00lpx"
+		},
+		{
+			"name": "lpx_211",
+			"value": "211.00lpx"
+		},
+		{
+			"name": "lpx_212",
+			"value": "212.00lpx"
+		},
+		{
+			"name": "lpx_213",
+			"value": "213.00lpx"
+		},
+		{
+			"name": "lpx_214",
+			"value": "214.00lpx"
+		},
+		{
+			"name": "lpx_215",
+			"value": "215.00lpx"
+		},
+		{
+			"name": "lpx_216",
+			"value": "216.00lpx"
+		},
+		{
+			"name": "lpx_217",
+			"value": "217.00lpx"
+		},
+		{
+			"name": "lpx_218",
+			"value": "218.00lpx"
+		},
+		{
+			"name": "lpx_219",
+			"value": "219.00lpx"
+		},
+		{
+			"name": "lpx_220",
+			"value": "220.00lpx"
+		},
+		{
+			"name": "lpx_221",
+			"value": "221.00lpx"
+		},
+		{
+			"name": "lpx_222",
+			"value": "222.00lpx"
+		},
+		{
+			"name": "lpx_223",
+			"value": "223.00lpx"
+		},
+		{
+			"name": "lpx_224",
+			"value": "224.00lpx"
+		},
+		{
+			"name": "lpx_225",
+			"value": "225.00lpx"
+		},
+		{
+			"name": "lpx_226",
+			"value": "226.00lpx"
+		},
+		{
+			"name": "lpx_227",
+			"value": "227.00lpx"
+		},
+		{
+			"name": "lpx_228",
+			"value": "228.00lpx"
+		},
+		{
+			"name": "lpx_229",
+			"value": "229.00lpx"
+		},
+		{
+			"name": "lpx_230",
+			"value": "230.00lpx"
+		},
+		{
+			"name": "lpx_231",
+			"value": "231.00lpx"
+		},
+		{
+			"name": "lpx_232",
+			"value": "232.00lpx"
+		},
+		{
+			"name": "lpx_233",
+			"value": "233.00lpx"
+		},
+		{
+			"name": "lpx_234",
+			"value": "234.00lpx"
+		},
+		{
+			"name": "lpx_235",
+			"value": "235.00lpx"
+		},
+		{
+			"name": "lpx_236",
+			"value": "236.00lpx"
+		},
+		{
+			"name": "lpx_237",
+			"value": "237.00lpx"
+		},
+		{
+			"name": "lpx_238",
+			"value": "238.00lpx"
+		},
+		{
+			"name": "lpx_239",
+			"value": "239.00lpx"
+		},
+		{
+			"name": "lpx_240",
+			"value": "240.00lpx"
+		},
+		{
+			"name": "lpx_241",
+			"value": "241.00lpx"
+		},
+		{
+			"name": "lpx_242",
+			"value": "242.00lpx"
+		},
+		{
+			"name": "lpx_243",
+			"value": "243.00lpx"
+		},
+		{
+			"name": "lpx_244",
+			"value": "244.00lpx"
+		},
+		{
+			"name": "lpx_245",
+			"value": "245.00lpx"
+		},
+		{
+			"name": "lpx_246",
+			"value": "246.00lpx"
+		},
+		{
+			"name": "lpx_247",
+			"value": "247.00lpx"
+		},
+		{
+			"name": "lpx_248",
+			"value": "248.00lpx"
+		},
+		{
+			"name": "lpx_249",
+			"value": "249.00lpx"
+		},
+		{
+			"name": "lpx_250",
+			"value": "250.00lpx"
+		},
+		{
+			"name": "lpx_251",
+			"value": "251.00lpx"
+		},
+		{
+			"name": "lpx_252",
+			"value": "252.00lpx"
+		},
+		{
+			"name": "lpx_253",
+			"value": "253.00lpx"
+		},
+		{
+			"name": "lpx_254",
+			"value": "254.00lpx"
+		},
+		{
+			"name": "lpx_255",
+			"value": "255.00lpx"
+		},
+		{
+			"name": "lpx_256",
+			"value": "256.00lpx"
+		},
+		{
+			"name": "lpx_257",
+			"value": "257.00lpx"
+		},
+		{
+			"name": "lpx_258",
+			"value": "258.00lpx"
+		},
+		{
+			"name": "lpx_259",
+			"value": "259.00lpx"
+		},
+		{
+			"name": "lpx_260",
+			"value": "260.00lpx"
+		},
+		{
+			"name": "lpx_261",
+			"value": "261.00lpx"
+		},
+		{
+			"name": "lpx_262",
+			"value": "262.00lpx"
+		},
+		{
+			"name": "lpx_263",
+			"value": "263.00lpx"
+		},
+		{
+			"name": "lpx_264",
+			"value": "264.00lpx"
+		},
+		{
+			"name": "lpx_265",
+			"value": "265.00lpx"
+		},
+		{
+			"name": "lpx_266",
+			"value": "266.00lpx"
+		},
+		{
+			"name": "lpx_267",
+			"value": "267.00lpx"
+		},
+		{
+			"name": "lpx_268",
+			"value": "268.00lpx"
+		},
+		{
+			"name": "lpx_269",
+			"value": "269.00lpx"
+		},
+		{
+			"name": "lpx_270",
+			"value": "270.00lpx"
+		},
+		{
+			"name": "lpx_271",
+			"value": "271.00lpx"
+		},
+		{
+			"name": "lpx_272",
+			"value": "272.00lpx"
+		},
+		{
+			"name": "lpx_273",
+			"value": "273.00lpx"
+		},
+		{
+			"name": "lpx_274",
+			"value": "274.00lpx"
+		},
+		{
+			"name": "lpx_275",
+			"value": "275.00lpx"
+		},
+		{
+			"name": "lpx_276",
+			"value": "276.00lpx"
+		},
+		{
+			"name": "lpx_277",
+			"value": "277.00lpx"
+		},
+		{
+			"name": "lpx_278",
+			"value": "278.00lpx"
+		},
+		{
+			"name": "lpx_279",
+			"value": "279.00lpx"
+		},
+		{
+			"name": "lpx_280",
+			"value": "280.00lpx"
+		},
+		{
+			"name": "lpx_281",
+			"value": "281.00lpx"
+		},
+		{
+			"name": "lpx_282",
+			"value": "282.00lpx"
+		},
+		{
+			"name": "lpx_283",
+			"value": "283.00lpx"
+		},
+		{
+			"name": "lpx_284",
+			"value": "284.00lpx"
+		},
+		{
+			"name": "lpx_285",
+			"value": "285.00lpx"
+		},
+		{
+			"name": "lpx_286",
+			"value": "286.00lpx"
+		},
+		{
+			"name": "lpx_287",
+			"value": "287.00lpx"
+		},
+		{
+			"name": "lpx_288",
+			"value": "288.00lpx"
+		},
+		{
+			"name": "lpx_289",
+			"value": "289.00lpx"
+		},
+		{
+			"name": "lpx_290",
+			"value": "290.00lpx"
+		},
+		{
+			"name": "lpx_291",
+			"value": "291.00lpx"
+		},
+		{
+			"name": "lpx_292",
+			"value": "292.00lpx"
+		},
+		{
+			"name": "lpx_293",
+			"value": "293.00lpx"
+		},
+		{
+			"name": "lpx_294",
+			"value": "294.00lpx"
+		},
+		{
+			"name": "lpx_295",
+			"value": "295.00lpx"
+		},
+		{
+			"name": "lpx_296",
+			"value": "296.00lpx"
+		},
+		{
+			"name": "lpx_297",
+			"value": "297.00lpx"
+		},
+		{
+			"name": "lpx_298",
+			"value": "298.00lpx"
+		},
+		{
+			"name": "lpx_299",
+			"value": "299.00lpx"
+		},
+		{
+			"name": "lpx_300",
+			"value": "300.00lpx"
+		},
+		{
+			"name": "lpx_301",
+			"value": "301.00lpx"
+		},
+		{
+			"name": "lpx_302",
+			"value": "302.00lpx"
+		},
+		{
+			"name": "lpx_303",
+			"value": "303.00lpx"
+		},
+		{
+			"name": "lpx_304",
+			"value": "304.00lpx"
+		},
+		{
+			"name": "lpx_305",
+			"value": "305.00lpx"
+		},
+		{
+			"name": "lpx_306",
+			"value": "306.00lpx"
+		},
+		{
+			"name": "lpx_307",
+			"value": "307.00lpx"
+		},
+		{
+			"name": "lpx_308",
+			"value": "308.00lpx"
+		},
+		{
+			"name": "lpx_309",
+			"value": "309.00lpx"
+		},
+		{
+			"name": "lpx_310",
+			"value": "310.00lpx"
+		},
+		{
+			"name": "lpx_311",
+			"value": "311.00lpx"
+		},
+		{
+			"name": "lpx_312",
+			"value": "312.00lpx"
+		},
+		{
+			"name": "lpx_313",
+			"value": "313.00lpx"
+		},
+		{
+			"name": "lpx_314",
+			"value": "314.00lpx"
+		},
+		{
+			"name": "lpx_315",
+			"value": "315.00lpx"
+		},
+		{
+			"name": "lpx_316",
+			"value": "316.00lpx"
+		},
+		{
+			"name": "lpx_317",
+			"value": "317.00lpx"
+		},
+		{
+			"name": "lpx_318",
+			"value": "318.00lpx"
+		},
+		{
+			"name": "lpx_319",
+			"value": "319.00lpx"
+		},
+		{
+			"name": "lpx_320",
+			"value": "320.00lpx"
+		},
+		{
+			"name": "lpx_321",
+			"value": "321.00lpx"
+		},
+		{
+			"name": "lpx_322",
+			"value": "322.00lpx"
+		},
+		{
+			"name": "lpx_323",
+			"value": "323.00lpx"
+		},
+		{
+			"name": "lpx_324",
+			"value": "324.00lpx"
+		},
+		{
+			"name": "lpx_325",
+			"value": "325.00lpx"
+		},
+		{
+			"name": "lpx_326",
+			"value": "326.00lpx"
+		},
+		{
+			"name": "lpx_327",
+			"value": "327.00lpx"
+		},
+		{
+			"name": "lpx_328",
+			"value": "328.00lpx"
+		},
+		{
+			"name": "lpx_329",
+			"value": "329.00lpx"
+		},
+		{
+			"name": "lpx_330",
+			"value": "330.00lpx"
+		},
+		{
+			"name": "lpx_331",
+			"value": "331.00lpx"
+		},
+		{
+			"name": "lpx_332",
+			"value": "332.00lpx"
+		},
+		{
+			"name": "lpx_333",
+			"value": "333.00lpx"
+		},
+		{
+			"name": "lpx_334",
+			"value": "334.00lpx"
+		},
+		{
+			"name": "lpx_335",
+			"value": "335.00lpx"
+		},
+		{
+			"name": "lpx_336",
+			"value": "336.00lpx"
+		},
+		{
+			"name": "lpx_337",
+			"value": "337.00lpx"
+		},
+		{
+			"name": "lpx_338",
+			"value": "338.00lpx"
+		},
+		{
+			"name": "lpx_339",
+			"value": "339.00lpx"
+		},
+		{
+			"name": "lpx_340",
+			"value": "340.00lpx"
+		},
+		{
+			"name": "lpx_341",
+			"value": "341.00lpx"
+		},
+		{
+			"name": "lpx_342",
+			"value": "342.00lpx"
+		},
+		{
+			"name": "lpx_343",
+			"value": "343.00lpx"
+		},
+		{
+			"name": "lpx_344",
+			"value": "344.00lpx"
+		},
+		{
+			"name": "lpx_345",
+			"value": "345.00lpx"
+		},
+		{
+			"name": "lpx_346",
+			"value": "346.00lpx"
+		},
+		{
+			"name": "lpx_347",
+			"value": "347.00lpx"
+		},
+		{
+			"name": "lpx_348",
+			"value": "348.00lpx"
+		},
+		{
+			"name": "lpx_349",
+			"value": "349.00lpx"
+		},
+		{
+			"name": "lpx_350",
+			"value": "350.00lpx"
+		},
+		{
+			"name": "lpx_351",
+			"value": "351.00lpx"
+		},
+		{
+			"name": "lpx_352",
+			"value": "352.00lpx"
+		},
+		{
+			"name": "lpx_353",
+			"value": "353.00lpx"
+		},
+		{
+			"name": "lpx_354",
+			"value": "354.00lpx"
+		},
+		{
+			"name": "lpx_355",
+			"value": "355.00lpx"
+		},
+		{
+			"name": "lpx_356",
+			"value": "356.00lpx"
+		},
+		{
+			"name": "lpx_357",
+			"value": "357.00lpx"
+		},
+		{
+			"name": "lpx_358",
+			"value": "358.00lpx"
+		},
+		{
+			"name": "lpx_359",
+			"value": "359.00lpx"
+		},
+		{
+			"name": "lpx_360",
+			"value": "360.00lpx"
+		},
+		{
+			"name": "lpx_361",
+			"value": "361.00lpx"
+		},
+		{
+			"name": "lpx_362",
+			"value": "362.00lpx"
+		},
+		{
+			"name": "lpx_363",
+			"value": "363.00lpx"
+		},
+		{
+			"name": "lpx_364",
+			"value": "364.00lpx"
+		},
+		{
+			"name": "lpx_365",
+			"value": "365.00lpx"
+		},
+		{
+			"name": "lpx_366",
+			"value": "366.00lpx"
+		},
+		{
+			"name": "lpx_367",
+			"value": "367.00lpx"
+		},
+		{
+			"name": "lpx_368",
+			"value": "368.00lpx"
+		},
+		{
+			"name": "lpx_369",
+			"value": "369.00lpx"
+		},
+		{
+			"name": "lpx_370",
+			"value": "370.00lpx"
+		},
+		{
+			"name": "lpx_371",
+			"value": "371.00lpx"
+		},
+		{
+			"name": "lpx_372",
+			"value": "372.00lpx"
+		},
+		{
+			"name": "lpx_373",
+			"value": "373.00lpx"
+		},
+		{
+			"name": "lpx_374",
+			"value": "374.00lpx"
+		},
+		{
+			"name": "lpx_375",
+			"value": "375.00lpx"
+		},
+		{
+			"name": "lpx_376",
+			"value": "376.00lpx"
+		},
+		{
+			"name": "lpx_377",
+			"value": "377.00lpx"
+		},
+		{
+			"name": "lpx_378",
+			"value": "378.00lpx"
+		},
+		{
+			"name": "lpx_379",
+			"value": "379.00lpx"
+		},
+		{
+			"name": "lpx_380",
+			"value": "380.00lpx"
+		},
+		{
+			"name": "lpx_381",
+			"value": "381.00lpx"
+		},
+		{
+			"name": "lpx_382",
+			"value": "382.00lpx"
+		},
+		{
+			"name": "lpx_383",
+			"value": "383.00lpx"
+		},
+		{
+			"name": "lpx_384",
+			"value": "384.00lpx"
+		},
+		{
+			"name": "lpx_385",
+			"value": "385.00lpx"
+		},
+		{
+			"name": "lpx_386",
+			"value": "386.00lpx"
+		},
+		{
+			"name": "lpx_387",
+			"value": "387.00lpx"
+		},
+		{
+			"name": "lpx_388",
+			"value": "388.00lpx"
+		},
+		{
+			"name": "lpx_389",
+			"value": "389.00lpx"
+		},
+		{
+			"name": "lpx_390",
+			"value": "390.00lpx"
+		},
+		{
+			"name": "lpx_391",
+			"value": "391.00lpx"
+		},
+		{
+			"name": "lpx_392",
+			"value": "392.00lpx"
+		},
+		{
+			"name": "lpx_393",
+			"value": "393.00lpx"
+		},
+		{
+			"name": "lpx_394",
+			"value": "394.00lpx"
+		},
+		{
+			"name": "lpx_395",
+			"value": "395.00lpx"
+		},
+		{
+			"name": "lpx_396",
+			"value": "396.00lpx"
+		},
+		{
+			"name": "lpx_397",
+			"value": "397.00lpx"
+		},
+		{
+			"name": "lpx_398",
+			"value": "398.00lpx"
+		},
+		{
+			"name": "lpx_399",
+			"value": "399.00lpx"
+		},
+		{
+			"name": "lpx_400",
+			"value": "400.00lpx"
+		},
+		{
+			"name": "lpx_401",
+			"value": "401.00lpx"
+		},
+		{
+			"name": "lpx_402",
+			"value": "402.00lpx"
+		},
+		{
+			"name": "lpx_403",
+			"value": "403.00lpx"
+		},
+		{
+			"name": "lpx_404",
+			"value": "404.00lpx"
+		},
+		{
+			"name": "lpx_405",
+			"value": "405.00lpx"
+		},
+		{
+			"name": "lpx_406",
+			"value": "406.00lpx"
+		},
+		{
+			"name": "lpx_407",
+			"value": "407.00lpx"
+		},
+		{
+			"name": "lpx_408",
+			"value": "408.00lpx"
+		},
+		{
+			"name": "lpx_409",
+			"value": "409.00lpx"
+		},
+		{
+			"name": "lpx_410",
+			"value": "410.00lpx"
+		},
+		{
+			"name": "lpx_411",
+			"value": "411.00lpx"
+		},
+		{
+			"name": "lpx_412",
+			"value": "412.00lpx"
+		},
+		{
+			"name": "lpx_413",
+			"value": "413.00lpx"
+		},
+		{
+			"name": "lpx_414",
+			"value": "414.00lpx"
+		},
+		{
+			"name": "lpx_415",
+			"value": "415.00lpx"
+		},
+		{
+			"name": "lpx_416",
+			"value": "416.00lpx"
+		},
+		{
+			"name": "lpx_417",
+			"value": "417.00lpx"
+		},
+		{
+			"name": "lpx_418",
+			"value": "418.00lpx"
+		},
+		{
+			"name": "lpx_419",
+			"value": "419.00lpx"
+		},
+		{
+			"name": "lpx_420",
+			"value": "420.00lpx"
+		},
+		{
+			"name": "lpx_421",
+			"value": "421.00lpx"
+		},
+		{
+			"name": "lpx_422",
+			"value": "422.00lpx"
+		},
+		{
+			"name": "lpx_423",
+			"value": "423.00lpx"
+		},
+		{
+			"name": "lpx_424",
+			"value": "424.00lpx"
+		},
+		{
+			"name": "lpx_425",
+			"value": "425.00lpx"
+		},
+		{
+			"name": "lpx_426",
+			"value": "426.00lpx"
+		},
+		{
+			"name": "lpx_427",
+			"value": "427.00lpx"
+		},
+		{
+			"name": "lpx_428",
+			"value": "428.00lpx"
+		},
+		{
+			"name": "lpx_429",
+			"value": "429.00lpx"
+		},
+		{
+			"name": "lpx_430",
+			"value": "430.00lpx"
+		},
+		{
+			"name": "lpx_431",
+			"value": "431.00lpx"
+		},
+		{
+			"name": "lpx_432",
+			"value": "432.00lpx"
+		},
+		{
+			"name": "lpx_433",
+			"value": "433.00lpx"
+		},
+		{
+			"name": "lpx_434",
+			"value": "434.00lpx"
+		},
+		{
+			"name": "lpx_435",
+			"value": "435.00lpx"
+		},
+		{
+			"name": "lpx_436",
+			"value": "436.00lpx"
+		},
+		{
+			"name": "lpx_437",
+			"value": "437.00lpx"
+		},
+		{
+			"name": "lpx_438",
+			"value": "438.00lpx"
+		},
+		{
+			"name": "lpx_439",
+			"value": "439.00lpx"
+		},
+		{
+			"name": "lpx_440",
+			"value": "440.00lpx"
+		},
+		{
+			"name": "lpx_441",
+			"value": "441.00lpx"
+		},
+		{
+			"name": "lpx_442",
+			"value": "442.00lpx"
+		},
+		{
+			"name": "lpx_443",
+			"value": "443.00lpx"
+		},
+		{
+			"name": "lpx_444",
+			"value": "444.00lpx"
+		},
+		{
+			"name": "lpx_445",
+			"value": "445.00lpx"
+		},
+		{
+			"name": "lpx_446",
+			"value": "446.00lpx"
+		},
+		{
+			"name": "lpx_447",
+			"value": "447.00lpx"
+		},
+		{
+			"name": "lpx_448",
+			"value": "448.00lpx"
+		},
+		{
+			"name": "lpx_449",
+			"value": "449.00lpx"
+		},
+		{
+			"name": "lpx_450",
+			"value": "450.00lpx"
+		},
+		{
+			"name": "lpx_451",
+			"value": "451.00lpx"
+		},
+		{
+			"name": "lpx_452",
+			"value": "452.00lpx"
+		},
+		{
+			"name": "lpx_453",
+			"value": "453.00lpx"
+		},
+		{
+			"name": "lpx_454",
+			"value": "454.00lpx"
+		},
+		{
+			"name": "lpx_455",
+			"value": "455.00lpx"
+		},
+		{
+			"name": "lpx_456",
+			"value": "456.00lpx"
+		},
+		{
+			"name": "lpx_457",
+			"value": "457.00lpx"
+		},
+		{
+			"name": "lpx_458",
+			"value": "458.00lpx"
+		},
+		{
+			"name": "lpx_459",
+			"value": "459.00lpx"
+		},
+		{
+			"name": "lpx_460",
+			"value": "460.00lpx"
+		},
+		{
+			"name": "lpx_461",
+			"value": "461.00lpx"
+		},
+		{
+			"name": "lpx_462",
+			"value": "462.00lpx"
+		},
+		{
+			"name": "lpx_463",
+			"value": "463.00lpx"
+		},
+		{
+			"name": "lpx_464",
+			"value": "464.00lpx"
+		},
+		{
+			"name": "lpx_465",
+			"value": "465.00lpx"
+		},
+		{
+			"name": "lpx_466",
+			"value": "466.00lpx"
+		},
+		{
+			"name": "lpx_467",
+			"value": "467.00lpx"
+		},
+		{
+			"name": "lpx_468",
+			"value": "468.00lpx"
+		},
+		{
+			"name": "lpx_469",
+			"value": "469.00lpx"
+		},
+		{
+			"name": "lpx_470",
+			"value": "470.00lpx"
+		},
+		{
+			"name": "lpx_471",
+			"value": "471.00lpx"
+		},
+		{
+			"name": "lpx_472",
+			"value": "472.00lpx"
+		},
+		{
+			"name": "lpx_473",
+			"value": "473.00lpx"
+		},
+		{
+			"name": "lpx_474",
+			"value": "474.00lpx"
+		},
+		{
+			"name": "lpx_475",
+			"value": "475.00lpx"
+		},
+		{
+			"name": "lpx_476",
+			"value": "476.00lpx"
+		},
+		{
+			"name": "lpx_477",
+			"value": "477.00lpx"
+		},
+		{
+			"name": "lpx_478",
+			"value": "478.00lpx"
+		},
+		{
+			"name": "lpx_479",
+			"value": "479.00lpx"
+		},
+		{
+			"name": "lpx_480",
+			"value": "480.00lpx"
+		},
+		{
+			"name": "lpx_481",
+			"value": "481.00lpx"
+		},
+		{
+			"name": "lpx_482",
+			"value": "482.00lpx"
+		},
+		{
+			"name": "lpx_483",
+			"value": "483.00lpx"
+		},
+		{
+			"name": "lpx_484",
+			"value": "484.00lpx"
+		},
+		{
+			"name": "lpx_485",
+			"value": "485.00lpx"
+		},
+		{
+			"name": "lpx_486",
+			"value": "486.00lpx"
+		},
+		{
+			"name": "lpx_487",
+			"value": "487.00lpx"
+		},
+		{
+			"name": "lpx_488",
+			"value": "488.00lpx"
+		},
+		{
+			"name": "lpx_489",
+			"value": "489.00lpx"
+		},
+		{
+			"name": "lpx_490",
+			"value": "490.00lpx"
+		},
+		{
+			"name": "lpx_491",
+			"value": "491.00lpx"
+		},
+		{
+			"name": "lpx_492",
+			"value": "492.00lpx"
+		},
+		{
+			"name": "lpx_493",
+			"value": "493.00lpx"
+		},
+		{
+			"name": "lpx_494",
+			"value": "494.00lpx"
+		},
+		{
+			"name": "lpx_495",
+			"value": "495.00lpx"
+		},
+		{
+			"name": "lpx_496",
+			"value": "496.00lpx"
+		},
+		{
+			"name": "lpx_497",
+			"value": "497.00lpx"
+		},
+		{
+			"name": "lpx_498",
+			"value": "498.00lpx"
+		},
+		{
+			"name": "lpx_499",
+			"value": "499.00lpx"
+		},
+		{
+			"name": "lpx_500",
+			"value": "500.00lpx"
+		},
+		{
+			"name": "lpx_501",
+			"value": "501.00lpx"
+		},
+		{
+			"name": "lpx_502",
+			"value": "502.00lpx"
+		},
+		{
+			"name": "lpx_503",
+			"value": "503.00lpx"
+		},
+		{
+			"name": "lpx_504",
+			"value": "504.00lpx"
+		},
+		{
+			"name": "lpx_505",
+			"value": "505.00lpx"
+		},
+		{
+			"name": "lpx_506",
+			"value": "506.00lpx"
+		},
+		{
+			"name": "lpx_507",
+			"value": "507.00lpx"
+		},
+		{
+			"name": "lpx_508",
+			"value": "508.00lpx"
+		},
+		{
+			"name": "lpx_509",
+			"value": "509.00lpx"
+		},
+		{
+			"name": "lpx_510",
+			"value": "510.00lpx"
+		},
+		{
+			"name": "lpx_511",
+			"value": "511.00lpx"
+		},
+		{
+			"name": "lpx_512",
+			"value": "512.00lpx"
+		},
+		{
+			"name": "lpx_513",
+			"value": "513.00lpx"
+		},
+		{
+			"name": "lpx_514",
+			"value": "514.00lpx"
+		},
+		{
+			"name": "lpx_515",
+			"value": "515.00lpx"
+		},
+		{
+			"name": "lpx_516",
+			"value": "516.00lpx"
+		},
+		{
+			"name": "lpx_517",
+			"value": "517.00lpx"
+		},
+		{
+			"name": "lpx_518",
+			"value": "518.00lpx"
+		},
+		{
+			"name": "lpx_519",
+			"value": "519.00lpx"
+		},
+		{
+			"name": "lpx_520",
+			"value": "520.00lpx"
+		},
+		{
+			"name": "lpx_521",
+			"value": "521.00lpx"
+		},
+		{
+			"name": "lpx_522",
+			"value": "522.00lpx"
+		},
+		{
+			"name": "lpx_523",
+			"value": "523.00lpx"
+		},
+		{
+			"name": "lpx_524",
+			"value": "524.00lpx"
+		},
+		{
+			"name": "lpx_525",
+			"value": "525.00lpx"
+		},
+		{
+			"name": "lpx_526",
+			"value": "526.00lpx"
+		},
+		{
+			"name": "lpx_527",
+			"value": "527.00lpx"
+		},
+		{
+			"name": "lpx_528",
+			"value": "528.00lpx"
+		},
+		{
+			"name": "lpx_529",
+			"value": "529.00lpx"
+		},
+		{
+			"name": "lpx_530",
+			"value": "530.00lpx"
+		},
+		{
+			"name": "lpx_531",
+			"value": "531.00lpx"
+		},
+		{
+			"name": "lpx_532",
+			"value": "532.00lpx"
+		},
+		{
+			"name": "lpx_533",
+			"value": "533.00lpx"
+		},
+		{
+			"name": "lpx_534",
+			"value": "534.00lpx"
+		},
+		{
+			"name": "lpx_535",
+			"value": "535.00lpx"
+		},
+		{
+			"name": "lpx_536",
+			"value": "536.00lpx"
+		},
+		{
+			"name": "lpx_537",
+			"value": "537.00lpx"
+		},
+		{
+			"name": "lpx_538",
+			"value": "538.00lpx"
+		},
+		{
+			"name": "lpx_539",
+			"value": "539.00lpx"
+		},
+		{
+			"name": "lpx_540",
+			"value": "540.00lpx"
+		},
+		{
+			"name": "lpx_541",
+			"value": "541.00lpx"
+		},
+		{
+			"name": "lpx_542",
+			"value": "542.00lpx"
+		},
+		{
+			"name": "lpx_543",
+			"value": "543.00lpx"
+		},
+		{
+			"name": "lpx_544",
+			"value": "544.00lpx"
+		},
+		{
+			"name": "lpx_545",
+			"value": "545.00lpx"
+		},
+		{
+			"name": "lpx_546",
+			"value": "546.00lpx"
+		},
+		{
+			"name": "lpx_547",
+			"value": "547.00lpx"
+		},
+		{
+			"name": "lpx_548",
+			"value": "548.00lpx"
+		},
+		{
+			"name": "lpx_549",
+			"value": "549.00lpx"
+		},
+		{
+			"name": "lpx_550",
+			"value": "550.00lpx"
+		},
+		{
+			"name": "lpx_551",
+			"value": "551.00lpx"
+		},
+		{
+			"name": "lpx_552",
+			"value": "552.00lpx"
+		},
+		{
+			"name": "lpx_553",
+			"value": "553.00lpx"
+		},
+		{
+			"name": "lpx_554",
+			"value": "554.00lpx"
+		},
+		{
+			"name": "lpx_555",
+			"value": "555.00lpx"
+		},
+		{
+			"name": "lpx_556",
+			"value": "556.00lpx"
+		},
+		{
+			"name": "lpx_557",
+			"value": "557.00lpx"
+		},
+		{
+			"name": "lpx_558",
+			"value": "558.00lpx"
+		},
+		{
+			"name": "lpx_559",
+			"value": "559.00lpx"
+		},
+		{
+			"name": "lpx_560",
+			"value": "560.00lpx"
+		},
+		{
+			"name": "lpx_561",
+			"value": "561.00lpx"
+		},
+		{
+			"name": "lpx_562",
+			"value": "562.00lpx"
+		},
+		{
+			"name": "lpx_563",
+			"value": "563.00lpx"
+		},
+		{
+			"name": "lpx_564",
+			"value": "564.00lpx"
+		},
+		{
+			"name": "lpx_565",
+			"value": "565.00lpx"
+		},
+		{
+			"name": "lpx_566",
+			"value": "566.00lpx"
+		},
+		{
+			"name": "lpx_567",
+			"value": "567.00lpx"
+		},
+		{
+			"name": "lpx_568",
+			"value": "568.00lpx"
+		},
+		{
+			"name": "lpx_569",
+			"value": "569.00lpx"
+		},
+		{
+			"name": "lpx_570",
+			"value": "570.00lpx"
+		},
+		{
+			"name": "lpx_571",
+			"value": "571.00lpx"
+		},
+		{
+			"name": "lpx_572",
+			"value": "572.00lpx"
+		},
+		{
+			"name": "lpx_573",
+			"value": "573.00lpx"
+		},
+		{
+			"name": "lpx_574",
+			"value": "574.00lpx"
+		},
+		{
+			"name": "lpx_575",
+			"value": "575.00lpx"
+		},
+		{
+			"name": "lpx_576",
+			"value": "576.00lpx"
+		},
+		{
+			"name": "lpx_577",
+			"value": "577.00lpx"
+		},
+		{
+			"name": "lpx_578",
+			"value": "578.00lpx"
+		},
+		{
+			"name": "lpx_579",
+			"value": "579.00lpx"
+		},
+		{
+			"name": "lpx_580",
+			"value": "580.00lpx"
+		},
+		{
+			"name": "lpx_581",
+			"value": "581.00lpx"
+		},
+		{
+			"name": "lpx_582",
+			"value": "582.00lpx"
+		},
+		{
+			"name": "lpx_583",
+			"value": "583.00lpx"
+		},
+		{
+			"name": "lpx_584",
+			"value": "584.00lpx"
+		},
+		{
+			"name": "lpx_585",
+			"value": "585.00lpx"
+		},
+		{
+			"name": "lpx_586",
+			"value": "586.00lpx"
+		},
+		{
+			"name": "lpx_587",
+			"value": "587.00lpx"
+		},
+		{
+			"name": "lpx_588",
+			"value": "588.00lpx"
+		},
+		{
+			"name": "lpx_589",
+			"value": "589.00lpx"
+		},
+		{
+			"name": "lpx_590",
+			"value": "590.00lpx"
+		},
+		{
+			"name": "lpx_591",
+			"value": "591.00lpx"
+		},
+		{
+			"name": "lpx_592",
+			"value": "592.00lpx"
+		},
+		{
+			"name": "lpx_593",
+			"value": "593.00lpx"
+		},
+		{
+			"name": "lpx_594",
+			"value": "594.00lpx"
+		},
+		{
+			"name": "lpx_595",
+			"value": "595.00lpx"
+		},
+		{
+			"name": "lpx_596",
+			"value": "596.00lpx"
+		},
+		{
+			"name": "lpx_597",
+			"value": "597.00lpx"
+		},
+		{
+			"name": "lpx_598",
+			"value": "598.00lpx"
+		},
+		{
+			"name": "lpx_599",
+			"value": "599.00lpx"
+		},
+		{
+			"name": "lpx_600",
+			"value": "600.00lpx"
+		},
+		{
+			"name": "lpx_601",
+			"value": "601.00lpx"
+		},
+		{
+			"name": "lpx_602",
+			"value": "602.00lpx"
+		},
+		{
+			"name": "lpx_603",
+			"value": "603.00lpx"
+		},
+		{
+			"name": "lpx_604",
+			"value": "604.00lpx"
+		},
+		{
+			"name": "lpx_605",
+			"value": "605.00lpx"
+		},
+		{
+			"name": "lpx_606",
+			"value": "606.00lpx"
+		},
+		{
+			"name": "lpx_607",
+			"value": "607.00lpx"
+		},
+		{
+			"name": "lpx_608",
+			"value": "608.00lpx"
+		},
+		{
+			"name": "lpx_609",
+			"value": "609.00lpx"
+		},
+		{
+			"name": "lpx_610",
+			"value": "610.00lpx"
+		},
+		{
+			"name": "lpx_611",
+			"value": "611.00lpx"
+		},
+		{
+			"name": "lpx_612",
+			"value": "612.00lpx"
+		},
+		{
+			"name": "lpx_613",
+			"value": "613.00lpx"
+		},
+		{
+			"name": "lpx_614",
+			"value": "614.00lpx"
+		},
+		{
+			"name": "lpx_615",
+			"value": "615.00lpx"
+		},
+		{
+			"name": "lpx_616",
+			"value": "616.00lpx"
+		},
+		{
+			"name": "lpx_617",
+			"value": "617.00lpx"
+		},
+		{
+			"name": "lpx_618",
+			"value": "618.00lpx"
+		},
+		{
+			"name": "lpx_619",
+			"value": "619.00lpx"
+		},
+		{
+			"name": "lpx_620",
+			"value": "620.00lpx"
+		},
+		{
+			"name": "lpx_621",
+			"value": "621.00lpx"
+		},
+		{
+			"name": "lpx_622",
+			"value": "622.00lpx"
+		},
+		{
+			"name": "lpx_623",
+			"value": "623.00lpx"
+		},
+		{
+			"name": "lpx_624",
+			"value": "624.00lpx"
+		},
+		{
+			"name": "lpx_625",
+			"value": "625.00lpx"
+		},
+		{
+			"name": "lpx_626",
+			"value": "626.00lpx"
+		},
+		{
+			"name": "lpx_627",
+			"value": "627.00lpx"
+		},
+		{
+			"name": "lpx_628",
+			"value": "628.00lpx"
+		},
+		{
+			"name": "lpx_629",
+			"value": "629.00lpx"
+		},
+		{
+			"name": "lpx_630",
+			"value": "630.00lpx"
+		},
+		{
+			"name": "lpx_631",
+			"value": "631.00lpx"
+		},
+		{
+			"name": "lpx_632",
+			"value": "632.00lpx"
+		},
+		{
+			"name": "lpx_633",
+			"value": "633.00lpx"
+		},
+		{
+			"name": "lpx_634",
+			"value": "634.00lpx"
+		},
+		{
+			"name": "lpx_635",
+			"value": "635.00lpx"
+		},
+		{
+			"name": "lpx_636",
+			"value": "636.00lpx"
+		},
+		{
+			"name": "lpx_637",
+			"value": "637.00lpx"
+		},
+		{
+			"name": "lpx_638",
+			"value": "638.00lpx"
+		},
+		{
+			"name": "lpx_639",
+			"value": "639.00lpx"
+		},
+		{
+			"name": "lpx_640",
+			"value": "640.00lpx"
+		},
+		{
+			"name": "lpx_641",
+			"value": "641.00lpx"
+		},
+		{
+			"name": "lpx_642",
+			"value": "642.00lpx"
+		},
+		{
+			"name": "lpx_643",
+			"value": "643.00lpx"
+		},
+		{
+			"name": "lpx_644",
+			"value": "644.00lpx"
+		},
+		{
+			"name": "lpx_645",
+			"value": "645.00lpx"
+		},
+		{
+			"name": "lpx_646",
+			"value": "646.00lpx"
+		},
+		{
+			"name": "lpx_647",
+			"value": "647.00lpx"
+		},
+		{
+			"name": "lpx_648",
+			"value": "648.00lpx"
+		},
+		{
+			"name": "lpx_649",
+			"value": "649.00lpx"
+		},
+		{
+			"name": "lpx_650",
+			"value": "650.00lpx"
+		},
+		{
+			"name": "lpx_651",
+			"value": "651.00lpx"
+		},
+		{
+			"name": "lpx_652",
+			"value": "652.00lpx"
+		},
+		{
+			"name": "lpx_653",
+			"value": "653.00lpx"
+		},
+		{
+			"name": "lpx_654",
+			"value": "654.00lpx"
+		},
+		{
+			"name": "lpx_655",
+			"value": "655.00lpx"
+		},
+		{
+			"name": "lpx_656",
+			"value": "656.00lpx"
+		},
+		{
+			"name": "lpx_657",
+			"value": "657.00lpx"
+		},
+		{
+			"name": "lpx_658",
+			"value": "658.00lpx"
+		},
+		{
+			"name": "lpx_659",
+			"value": "659.00lpx"
+		},
+		{
+			"name": "lpx_660",
+			"value": "660.00lpx"
+		},
+		{
+			"name": "lpx_661",
+			"value": "661.00lpx"
+		},
+		{
+			"name": "lpx_662",
+			"value": "662.00lpx"
+		},
+		{
+			"name": "lpx_663",
+			"value": "663.00lpx"
+		},
+		{
+			"name": "lpx_664",
+			"value": "664.00lpx"
+		},
+		{
+			"name": "lpx_665",
+			"value": "665.00lpx"
+		},
+		{
+			"name": "lpx_666",
+			"value": "666.00lpx"
+		},
+		{
+			"name": "lpx_667",
+			"value": "667.00lpx"
+		},
+		{
+			"name": "lpx_668",
+			"value": "668.00lpx"
+		},
+		{
+			"name": "lpx_669",
+			"value": "669.00lpx"
+		},
+		{
+			"name": "lpx_670",
+			"value": "670.00lpx"
+		},
+		{
+			"name": "lpx_671",
+			"value": "671.00lpx"
+		},
+		{
+			"name": "lpx_672",
+			"value": "672.00lpx"
+		},
+		{
+			"name": "lpx_673",
+			"value": "673.00lpx"
+		},
+		{
+			"name": "lpx_674",
+			"value": "674.00lpx"
+		},
+		{
+			"name": "lpx_675",
+			"value": "675.00lpx"
+		},
+		{
+			"name": "lpx_676",
+			"value": "676.00lpx"
+		},
+		{
+			"name": "lpx_677",
+			"value": "677.00lpx"
+		},
+		{
+			"name": "lpx_678",
+			"value": "678.00lpx"
+		},
+		{
+			"name": "lpx_679",
+			"value": "679.00lpx"
+		},
+		{
+			"name": "lpx_680",
+			"value": "680.00lpx"
+		},
+		{
+			"name": "lpx_681",
+			"value": "681.00lpx"
+		},
+		{
+			"name": "lpx_682",
+			"value": "682.00lpx"
+		},
+		{
+			"name": "lpx_683",
+			"value": "683.00lpx"
+		},
+		{
+			"name": "lpx_684",
+			"value": "684.00lpx"
+		},
+		{
+			"name": "lpx_685",
+			"value": "685.00lpx"
+		},
+		{
+			"name": "lpx_686",
+			"value": "686.00lpx"
+		},
+		{
+			"name": "lpx_687",
+			"value": "687.00lpx"
+		},
+		{
+			"name": "lpx_688",
+			"value": "688.00lpx"
+		},
+		{
+			"name": "lpx_689",
+			"value": "689.00lpx"
+		},
+		{
+			"name": "lpx_690",
+			"value": "690.00lpx"
+		},
+		{
+			"name": "lpx_691",
+			"value": "691.00lpx"
+		},
+		{
+			"name": "lpx_692",
+			"value": "692.00lpx"
+		},
+		{
+			"name": "lpx_693",
+			"value": "693.00lpx"
+		},
+		{
+			"name": "lpx_694",
+			"value": "694.00lpx"
+		},
+		{
+			"name": "lpx_695",
+			"value": "695.00lpx"
+		},
+		{
+			"name": "lpx_696",
+			"value": "696.00lpx"
+		},
+		{
+			"name": "lpx_697",
+			"value": "697.00lpx"
+		},
+		{
+			"name": "lpx_698",
+			"value": "698.00lpx"
+		},
+		{
+			"name": "lpx_699",
+			"value": "699.00lpx"
+		},
+		{
+			"name": "lpx_700",
+			"value": "700.00lpx"
+		},
+		{
+			"name": "lpx_701",
+			"value": "701.00lpx"
+		},
+		{
+			"name": "lpx_702",
+			"value": "702.00lpx"
+		},
+		{
+			"name": "lpx_703",
+			"value": "703.00lpx"
+		},
+		{
+			"name": "lpx_704",
+			"value": "704.00lpx"
+		},
+		{
+			"name": "lpx_705",
+			"value": "705.00lpx"
+		},
+		{
+			"name": "lpx_706",
+			"value": "706.00lpx"
+		},
+		{
+			"name": "lpx_707",
+			"value": "707.00lpx"
+		},
+		{
+			"name": "lpx_708",
+			"value": "708.00lpx"
+		},
+		{
+			"name": "lpx_709",
+			"value": "709.00lpx"
+		},
+		{
+			"name": "lpx_710",
+			"value": "710.00lpx"
+		},
+		{
+			"name": "lpx_711",
+			"value": "711.00lpx"
+		},
+		{
+			"name": "lpx_712",
+			"value": "712.00lpx"
+		},
+		{
+			"name": "lpx_713",
+			"value": "713.00lpx"
+		},
+		{
+			"name": "lpx_714",
+			"value": "714.00lpx"
+		},
+		{
+			"name": "lpx_715",
+			"value": "715.00lpx"
+		},
+		{
+			"name": "lpx_716",
+			"value": "716.00lpx"
+		},
+		{
+			"name": "lpx_717",
+			"value": "717.00lpx"
+		},
+		{
+			"name": "lpx_718",
+			"value": "718.00lpx"
+		},
+		{
+			"name": "lpx_719",
+			"value": "719.00lpx"
+		},
+		{
+			"name": "lpx_720",
+			"value": "720.00lpx"
+		},
+		{
+			"name": "lpx_721",
+			"value": "721.00lpx"
+		},
+		{
+			"name": "lpx_722",
+			"value": "722.00lpx"
+		},
+		{
+			"name": "lpx_723",
+			"value": "723.00lpx"
+		},
+		{
+			"name": "lpx_724",
+			"value": "724.00lpx"
+		},
+		{
+			"name": "lpx_725",
+			"value": "725.00lpx"
+		},
+		{
+			"name": "lpx_726",
+			"value": "726.00lpx"
+		},
+		{
+			"name": "lpx_727",
+			"value": "727.00lpx"
+		},
+		{
+			"name": "lpx_728",
+			"value": "728.00lpx"
+		},
+		{
+			"name": "lpx_729",
+			"value": "729.00lpx"
+		},
+		{
+			"name": "lpx_730",
+			"value": "730.00lpx"
+		},
+		{
+			"name": "lpx_731",
+			"value": "731.00lpx"
+		},
+		{
+			"name": "lpx_732",
+			"value": "732.00lpx"
+		},
+		{
+			"name": "lpx_733",
+			"value": "733.00lpx"
+		},
+		{
+			"name": "lpx_734",
+			"value": "734.00lpx"
+		},
+		{
+			"name": "lpx_735",
+			"value": "735.00lpx"
+		},
+		{
+			"name": "lpx_736",
+			"value": "736.00lpx"
+		},
+		{
+			"name": "lpx_737",
+			"value": "737.00lpx"
+		},
+		{
+			"name": "lpx_738",
+			"value": "738.00lpx"
+		},
+		{
+			"name": "lpx_739",
+			"value": "739.00lpx"
+		},
+		{
+			"name": "lpx_740",
+			"value": "740.00lpx"
+		},
+		{
+			"name": "lpx_741",
+			"value": "741.00lpx"
+		},
+		{
+			"name": "lpx_742",
+			"value": "742.00lpx"
+		},
+		{
+			"name": "lpx_743",
+			"value": "743.00lpx"
+		},
+		{
+			"name": "lpx_744",
+			"value": "744.00lpx"
+		},
+		{
+			"name": "lpx_745",
+			"value": "745.00lpx"
+		},
+		{
+			"name": "lpx_746",
+			"value": "746.00lpx"
+		},
+		{
+			"name": "lpx_747",
+			"value": "747.00lpx"
+		},
+		{
+			"name": "lpx_748",
+			"value": "748.00lpx"
+		},
+		{
+			"name": "lpx_749",
+			"value": "749.00lpx"
+		},
+		{
+			"name": "lpx_750",
+			"value": "750.00lpx"
+		}
+	]
+}

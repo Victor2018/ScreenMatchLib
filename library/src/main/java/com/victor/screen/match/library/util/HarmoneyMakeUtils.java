@@ -12,16 +12,18 @@ public class HarmoneyMakeUtils {
     private static final String JSON_ITEM_START = "\t\t{\r\n";
     private static final String JSON_ITEM_END = "\t\t},\r\n";
     private static final String JSON_ITEM_LAST_END = "\t\t}\r\n";
-    private static final String ARRAY_START = "\t\"float\": [\r\n";
+    private static final String ARRAY_START = "\t\"string\": [\r\n";
     private static final String ARRAY_END = "\t]\r\n";
     private static final String JSON_NAME_VP_TEMPLETE = "\t\t\t\"name\": \"vp_%1$d\",\r\n";
+    private static final String JSON_NAME_LPX_TEMPLETE = "\t\t\t\"name\": \"lpx_%1$d\",\r\n";
     private static final String JSON_NAME_FP_TEMPLETE = "\t\t\t\"name\": \"fp_%1$d\",\r\n";
     private static final String JSON_VALUE_VP_TEMPLETE = "\t\t\t\"value\": \"%1$.2fvp\"\r\n";
+    private static final String JSON_VALUE_LPX_TEMPLETE = "\t\t\t\"value\": \"%1$.2flpx\"\r\n";
     private static final String JSON_VALUE_FP_TEMPLETE = "\t\t\t\"value\": \"%1$.2ffp\"\r\n";
     private static final int MAX_SIZE = 750;
     private static final String BASE_NAME_TEMPLETE = "\t\t\t\"name\": \"%s\",\n";
     private static final String BASE_VALUE_TEMPLETE = "\t\t\t\"value\": \"%dvp\"\n";
-
+    private static final String BASE_VALUE_TEMPLETE_LPX = "\t\t\t\"value\": \"%dlpx\"\n";
 
     /**
      * 生成的文件名
@@ -53,34 +55,58 @@ public class HarmoneyMakeUtils {
             //添加base信息
             sb.append(JSON_ITEM_START);
             sb.append(String.format(BASE_NAME_TEMPLETE,getBaseName(swWidthDp)));
-            sb.append(String.format(BASE_VALUE_TEMPLETE,swWidthDp));
+            if (swWidthDp == 750) {
+                sb.append(String.format(BASE_VALUE_TEMPLETE_LPX,swWidthDp));
+            } else  {
+                sb.append(String.format(BASE_VALUE_TEMPLETE,swWidthDp));
+            }
             sb.append(JSON_ITEM_END);
 
             for (int i = 1; i <= MAX_SIZE; i++) {
-                //添加fp
+                //添加vp
                 sb.append(JSON_ITEM_START);
-                sb.append(String.format(JSON_NAME_VP_TEMPLETE,i));
+                if (swWidthDp == 750) {
+                    sb.append(String.format(JSON_NAME_LPX_TEMPLETE,i));
+                } else {
+                    sb.append(String.format(JSON_NAME_VP_TEMPLETE,i));
+                }
 
                 vpValue = px2dip((float) i,swWidthDp,designWidth);
                 System.err.println("vpValue = " + vpValue);
                 temp = String.format(JSON_VALUE_VP_TEMPLETE, vpValue);
+                if (swWidthDp == 750) {
+                    temp = String.format(JSON_VALUE_LPX_TEMPLETE, vpValue);
+                }
                 sb.append(temp);
 
-                sb.append(JSON_ITEM_END);
+                if (swWidthDp != 750) {
+                    sb.append(JSON_ITEM_END);
+                } else {
+                    if (i == MAX_SIZE) {
+                        sb.append(JSON_ITEM_LAST_END);
+                    } else {
+                        sb.append(JSON_ITEM_END);
+                    }
+                }
 
                 //添加fp
-                sb.append(JSON_ITEM_START);
-                sb.append(String.format(JSON_NAME_FP_TEMPLETE,i));
-
-                vpValue = px2dip((float) i,swWidthDp,designWidth);
-                System.err.println("fpValue = " + vpValue);
-                temp = String.format(JSON_VALUE_FP_TEMPLETE, vpValue);
-                sb.append(temp);
+                if (swWidthDp != 750) {
+                    sb.append(JSON_ITEM_START);
+                    sb.append(String.format(JSON_NAME_FP_TEMPLETE,i));
+                    vpValue = px2dip((float) i,swWidthDp,designWidth);
+                    System.err.println("fpValue = " + vpValue);
+                    temp = String.format(JSON_VALUE_FP_TEMPLETE, vpValue);
+                    sb.append(temp);
+                }
 
                 if (i == MAX_SIZE) {
-                    sb.append(JSON_ITEM_LAST_END);
+                    if (swWidthDp != 750) {
+                        sb.append(JSON_ITEM_LAST_END);
+                    }
                 } else {
-                    sb.append(JSON_ITEM_END);
+                    if (swWidthDp != 750) {
+                        sb.append(JSON_ITEM_END);
+                    }
                 }
             }
 
@@ -110,6 +136,9 @@ public class HarmoneyMakeUtils {
             file.mkdirs();
 
             String jsonFileName = "design_" + designWidth + "_" + swWidthDp + "_vp.json";
+            if (swWidthDp == 750) {
+                jsonFileName = "design_" + designWidth + "_" + swWidthDp + "_lpx.json";
+            }
 
             FileOutputStream fos = new FileOutputStream(file.getAbsolutePath() + File.separator + jsonFileName);
             fos.write(makeAllDimens(swWidthDp,designWidth).getBytes());
@@ -148,6 +177,10 @@ public class HarmoneyMakeUtils {
             }
             case 480: {
                 baseName = "xxxhdpi_640dpi";
+                break;
+            }
+            case 750: {
+                baseName = "750lpx";
                 break;
             }
         }
