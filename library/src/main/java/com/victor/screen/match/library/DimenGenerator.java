@@ -64,7 +64,6 @@ public class DimenGenerator {
             for (DimenTypes value : values) {
                 TvMakeUtils.makeTvAll(value.widthPx,value.heightPx,TV_DESIGN_WIDTH,TV_DESIGN_HEIGHT,"./library/src/main/res/");
             }
-
         }
     }
 
