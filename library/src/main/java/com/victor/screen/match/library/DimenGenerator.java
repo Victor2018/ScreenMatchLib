@@ -49,10 +49,14 @@ public class DimenGenerator {
     public static void main(String[] args) {
         //求得最小宽度
         int smallestWidth = PHONE_DESIGN_WIDTH > PHONE_DESIGN_HEIGHT ? PHONE_DESIGN_HEIGHT : PHONE_DESIGN_WIDTH;
-        //生成 Phone dimens.xml
+        //生成 android Phone dimens.xml
         for (int i=DP_PHONE_SW_START;i<=DP_PHONE_SW_END;i+=10) {
-            MakeUtils.makeAll(smallestWidth, i, "./library/src/main/res/");
+            String folderName = "values-sw" + i + "dp";
+            MakeUtils.makeAll(smallestWidth, i, "./library/src/main/res/",folderName);
         }
+        //生成android Phone 默认dimens.xml
+        String folderName = "values";
+        MakeUtils.makeAll(smallestWidth, 360, "./library/src/main/res/",folderName);
 
         for (int sw: HARMONEY_SW) {
             HarmoneyMakeUtils.makeAll(smallestWidth, sw, "./library/src/main/assets/");

@@ -10,7 +10,7 @@ public class MakeUtils {
     private static final String XML_HEADER = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n";
     private static final String XML_RESOURCE_START = "<resources>\r\n";
     private static final String XML_RESOURCE_END = "</resources>\r\n";
-    private static final String XML_DIMEN_TEMPLETE = "<dimen name=\"dp%1$d\">%2$.2fdp</dimen>\r\n";
+    private static final String XML_DIMEN_TEMPLETE = "<dimen name=\"dp_%1$d\">%2$.2fdp</dimen>\r\n";
 
 
     private static final String XML_BASE_DPI = "<string name=\"base_dpi\">%ddp</string>\r\n";
@@ -67,11 +67,11 @@ public class MakeUtils {
      * @param swWidthDp
      * @param buildDir 生成的目标文件夹
      */
-    public static void makeAll(int designWidth, int swWidthDp, String buildDir) {
+    public static void makeAll(int designWidth, int swWidthDp, String buildDir, String folderName) {
         try {
             if (swWidthDp <= 0) return;
 
-            String folderName = "values-sw" + swWidthDp + "dp";
+//            String folderName = "values-sw" + swWidthDp + "dp";
 
             File file = new File(buildDir + File.separator + folderName);
             if (file.exists()) {
