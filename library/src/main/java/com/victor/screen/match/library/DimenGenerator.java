@@ -1,7 +1,8 @@
 package com.victor.screen.match.library;
 
 
-import com.victor.screen.match.library.util.DimenTypes;
+import com.victor.screen.match.library.util.PhoneDimenTypes;
+import com.victor.screen.match.library.util.TVDimenTypes;
 import com.victor.screen.match.library.util.HarmoneyMakeUtils;
 import com.victor.screen.match.library.util.MakeUtils;
 import com.victor.screen.match.library.util.TvMakeUtils;
@@ -50,10 +51,12 @@ public class DimenGenerator {
         //求得最小宽度
         int smallestWidth = PHONE_DESIGN_WIDTH > PHONE_DESIGN_HEIGHT ? PHONE_DESIGN_HEIGHT : PHONE_DESIGN_WIDTH;
         //生成 android Phone dimens.xml
-        for (int i=DP_PHONE_SW_START;i<=DP_PHONE_SW_END;i+=10) {
-            String folderName = "values-sw" + i + "dp";
-            MakeUtils.makeAll(smallestWidth, i, "./library/src/main/res/",folderName);
+        PhoneDimenTypes[] phoneValues = PhoneDimenTypes.values();
+        for (PhoneDimenTypes value : phoneValues) {
+            String folderName = "values-sw" + value.swWidthDp + "dp";
+            MakeUtils.makeAll(smallestWidth, value.swWidthDp, "./library/src/main/res/",folderName);
         }
+
         //生成android Phone 默认dimens.xml
         String folderName = "values";
         MakeUtils.makeAll(smallestWidth, 360, "./library/src/main/res/",folderName);
@@ -64,8 +67,8 @@ public class DimenGenerator {
 
         if (!isPhone) {
             //生成 TV dimens.xml
-            DimenTypes[] values = DimenTypes.values();
-            for (DimenTypes value : values) {
+            TVDimenTypes[] tvValues = TVDimenTypes.values();
+            for (TVDimenTypes value : tvValues) {
                 TvMakeUtils.makeTvAll(value.widthPx,value.heightPx,TV_DESIGN_WIDTH,TV_DESIGN_HEIGHT,"./library/src/main/res/");
             }
         }

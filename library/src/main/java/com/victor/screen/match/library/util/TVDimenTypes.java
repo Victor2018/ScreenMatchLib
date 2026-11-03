@@ -10,7 +10,7 @@ package com.victor.screen.match.library.util;
  * Description:
  * -----------------------------------------------------------------
  */
-public enum  DimenTypes {
+public enum TVDimenTypes {
     TV_1024_600(1024,600),  // values-1024x600
     TV_1280_672(1280,672),
     TV_1280_720(1280,720),
@@ -29,10 +29,9 @@ public enum  DimenTypes {
     public int widthPx;//单位px
     public int heightPx;//单位px
 
-    DimenTypes(int widthPx,int heightPx) {
+    TVDimenTypes(int widthPx, int heightPx) {
         this.widthPx = widthPx;
         this.heightPx = heightPx;
     }
-
 
 }
