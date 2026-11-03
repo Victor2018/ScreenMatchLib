@@ -28,10 +28,12 @@ public enum PhoneDimenTypes {
     SW_392(392),  // values-sw392dp
     SW_393(393),  // values-sw393dp
     SW_400(400),  // values-sw400dp
+    SW_410(410),  // values-sw410dp
     SW_411(411),  // values-sw411dp
     SW_420(420),  // values-sw420dp
     SW_423(423),  // values-sw423dp
     SW_430(430),  // values-sw430dp
+    SW_432(432),  // values-sw432dp
     SW_440(440),  // values-sw440dp
     SW_450(450),  // values-sw450dp
     SW_460(460),  // values-sw460dp
@@ -42,9 +44,15 @@ public enum PhoneDimenTypes {
     SW_510(510),  // values-sw510dp
     SW_520(520),  // values-sw520dp
     SW_530(530),  // values-sw530dp
+    SW_533(533),  // values-sw533dp
     SW_540(540),  // values-sw540dp
     SW_550(550),  // values-sw550dp
-    SW_560(560); // values-sw560dp
+    SW_560(560), // values-sw560dp
+    SW_570(570), // values-sw570dp
+    SW_580(580), // values-sw580dp
+    SW_590(590), // values-sw590dp
+    SW_592(592), // values-sw592dp
+    SW_600(600); // values-sw600dp
 
     /**
      * 屏幕最小宽度
